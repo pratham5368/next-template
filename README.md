@@ -1,6 +1,6 @@
 <h1>Ada</h1>   
 
-A Modern Landing page template built with Tailwindcss and Tailus Themer
+A Modern Landing page template built with Tailwindcss and Tailus Themer in html tailwind css
 
 <img src="public/cover.png" />
 
